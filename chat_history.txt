@@ -1,0 +1,22 @@
+You: hello
+Bot: Hello! How are you?
+You: hello
+Bot: Hello! How are you?
+You: hello
+Bot: Hello! How are you?
+You: what is your name
+Bot: I'm Mini RiveBot 🤖
+You: hello
+Bot: Hello! How are you?
+You: what is your name
+Bot: I'm Mini RiveBot
+You: what is Python
+Bot: Python is a popular high-level programming language used for web development, AI, data science, and more.
+You: hello
+Bot: Hello! How are you?
+You: what is your  name
+Bot: I'm Mini RiveBot
+You: what is AI
+Bot: AI (Artificial Intelligence) is the simulation of human intelligence by machines that can learn, reason, and solve problems.
+You: *
+Bot: Sorry, I didn't understand that
